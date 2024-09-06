@@ -1,6 +1,6 @@
 # Tools
 
-![image](https://i.ibb.co/WyLJmm1/tools.png)
+![image](https://github.com/udmurtNLP/docs/blob/main/imgs/tools.png?raw=true)
 
 - [Rule-based morphological analyzer](https://github.com/timarkh/uniparser-grammar-udm)
 - [Udmspell: spell checker and morphological analyzer](https://github.com/vorgoron/udmspell)
