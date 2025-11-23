@@ -2,6 +2,7 @@
 
 ![image](https://github.com/udmurtNLP/docs/blob/main/imgs/tools.png?raw=true)
 
+- [Automated stress disambiguation for the Udmurt language](https://github.com/snakers4/silero-stress/wiki/Other-Languages)
 - [Rule-based morphological analyzer](https://github.com/timarkh/uniparser-grammar-udm)
 - [Udmspell: spell checker and morphological analyzer](https://github.com/vorgoron/udmspell)
 - [Apertium-udm: morphological analyzer/generator and POS-tagger](https://github.com/apertium/apertium-udm)
